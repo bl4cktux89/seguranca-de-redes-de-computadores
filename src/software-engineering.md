@@ -1,22 +1,25 @@
-# introdução à engenharia de software
+# engenharia de software
 
 ## habilidades a serem desenvolvidas:
 - esclarecer os aspectos gerais da engenharia de software
 - explicar os conceitos, pilares, objetivos e paradigmas
+- explicar os processos de desenvolvimento de software
+- examinar os requisitos para o desenvolvimento
+- analisar como ocorrem os processos, desde o planejamento até a manutenção
 
-### conceito de engenharia de software
+## conceito de engenharia de software
 - engenharia de software é uma disciplina cujo objetivo é produzir software isento de falhas, entregue dentro do prazo e orçamentos previstos, e que atenda às necessidades do cliente. além disso, o software deve ser fácil de ser modificado quando as necessidades dos usuários mudarem
 
-#### definição genérica de software:
+### definição genérica de software:
 - instruções que, quando executadas, produzem a função desejada
 - estruturas de dados que possibilitam que os programas manipulem a informação
 - documentação relativa ao sistema
 
-#### definição pela IEEE computer society:
-- a aplicação de uma abordagem sistemática, disciplinada e quantificável de desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens
+### definição pela IEEE computer society:
+> a aplicação de uma abordagem sistemática, disciplinada e quantificável de desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens
 
-#### outra definição de engenharia de software:
-- engenharia de software é a profissão dedicada a projetar, implementar e modificar software, de forma que ele seja de alta qualidade, a um custo razoável, manutenível e rápido de construir
+### outra definição de engenharia de software:
+> engenharia de software é a profissão dedicada a projetar, implementar e modificar software, de forma que ele seja de alta qualidade, a um custo razoável, manutenível e rápido de construir
 
 pilares
 - abstração
@@ -28,7 +31,8 @@ pilares
 - integridade
 - completeza
 
-categorias de software
+### categorias de software
+
 software básico:
 apoio a outros programas
 forte interação com hardware
@@ -50,3 +54,54 @@ forte interação com o ser humano
 deve ser fácil e amigável
 
 crise do software
+desenvolver software é uma atividade que tem deixado de ser artesanal e empírica para se tornar sistemática e organizada
+
+o processo de desenvolvimento de um software
+é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
+vantagens  em se definir o desenvolvimento de software como um processo:
+- redução no tempo de treinamento
+- produção de artefatos mais uniformizados
+- transformação de experiências em valor
+
+divisões de estrutura
+- fases
+  - conjunto de atividades com objetivos definidos
+- atividades
+  - modificam os artefatos que podem ser diagramas, documentos ou programas
+  - devem possuir entradas, saídas, responsáveis, participantes e recursos definidos
+  
+## ciclo de vida natural de um software
+- requisitos
+- projeto
+- implementação
+- teste
+- manutenção
+
+### ciclo de desenvolvimento de sistemas mais detalhado
+- estudo de viabilidade
+- análise de sistemas
+- projeto
+- implementação
+- geração de teste de aceite
+- garantia de qualidade
+- descrição de procedimentos
+- conversão de bases de dados
+- instalação
+
+### requisitos
+
+> são condições para que um determinado evento aconteça
+
+os requisitos expressam as necessidades e restrições de um determinado produto 
+descoberta, análise, especificação e validação das propriedades
+
+### projeto
+
+> requisitos nos mostram "o que" o sistema deverá fazer, o projeto deverá refletir "como"
+
+o trabalho principal de um projeto é decompor o produto em módulos que se comunicam através de interfaces
+
+### implementação
+
+o produto passa a ser executável
+
