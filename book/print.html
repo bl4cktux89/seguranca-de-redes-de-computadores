@@ -183,38 +183,48 @@
 <li>integridade</li>
 <li>completeza</li>
 </ul>
-<h3 id="modelos-de-processo-de-software"><a class="header" href="#modelos-de-processo-de-software">modelos de processo de software</a></h3>
+<h3 id="categorias-de-software"><a class="header" href="#categorias-de-software">categorias de software</a></h3>
 <ul>
-<li>representação simplificada <em>abstrações</em> de um processo de software</li>
-<li>representam <em>frameworks</em></li>
-<li>modelos mais comuns:
+<li>
+<p>software básico:</p>
 <ul>
-<li>cascata</li>
-<li>incremental</li>
-<li>orientado a reuso</li>
+<li>apoio a outros programas</li>
+<li>forte interação com hardware</li>
+<li>exemplos: compiladores, drivers de dispositivo, componentes de sistema operacional</li>
+</ul>
+</li>
+<li>
+<p>software em tempo real:</p>
+<ul>
+<li>tipo de software que monitora eventos por meio de coleta e análise de dados</li>
+<li>software fornece resposta imediata</li>
+</ul>
+</li>
+<li>
+<p>software comercial:</p>
+<ul>
+<li>manipulação de grande volume de dados e uso em aplicações comerciais</li>
+<li>possui forte interação com banco de dados</li>
+</ul>
+</li>
+<li>
+<p>software científico:</p>
+<ul>
+<li>algoritmos de processamento numérico</li>
+</ul>
+</li>
+<li>
+<p>software de computador pessoal:</p>
+<ul>
+<li>forte interação com o ser humano</li>
+<li>deve ser fácil e amigável</li>
 </ul>
 </li>
 </ul>
-<h3 id="categorias-de-software"><a class="header" href="#categorias-de-software">categorias de software</a></h3>
-<p>software básico:
-apoio a outros programas
-forte interação com hardware
-exemplos: compiladores, drivers de dispositivo, componentes de sistema operacional</p>
-<p>software em tempo real:
-tipo de software que monitora eventos por meio de coleta e análise de dados
-software fornece resposta imediata</p>
-<p>software comercial:
-manipulação de grande volume de dados e uso em aplicações comerciais
-possui forte interação com banco de dados</p>
-<p>software científico:
-algoritmos de processamento numérico</p>
-<p>software de computador pessoal:
-forte interação com o ser humano
-deve ser fácil e amigável</p>
-<p>crise do software
-desenvolver software é uma atividade que tem deixado de ser artesanal e empírica para se tornar sistemática e organizada</p>
-<p>o processo de desenvolvimento de um software
-é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
+<h3 id="crise-do-software"><a class="header" href="#crise-do-software">crise do software</a></h3>
+<p>desenvolver software é uma atividade que tem deixado de ser artesanal e empírica para se tornar sistemática e organizada</p>
+<h3 id="processo-de-desenvolvimento-de-um-software"><a class="header" href="#processo-de-desenvolvimento-de-um-software">processo de desenvolvimento de um software</a></h3>
+<p>processo de desenvolvimento de um software é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
 vantagens  em se definir o desenvolvimento de software como um processo:</p>
 <ul>
 <li>redução no tempo de treinamento</li>
@@ -268,6 +278,100 @@ descoberta, análise, especificação e validação das propriedades</p>
 <p>o trabalho principal de um projeto é decompor o produto em módulos que se comunicam através de interfaces</p>
 <h3 id="implementação"><a class="header" href="#implementação">implementação</a></h3>
 <p>o produto passa a ser executável</p>
+<h3 id="modelos-de-processo-de-software"><a class="header" href="#modelos-de-processo-de-software">modelos de processo de software</a></h3>
+<ul>
+<li>representação simplificada <em>abstrações</em> de um processo de software</li>
+<li>representam <em>frameworks</em></li>
+<li>modelos mais comuns:
+<ul>
+<li>cascata</li>
+<li>incremental</li>
+<li>orientado a reuso</li>
+</ul>
+</li>
+</ul>
+<h4 id="lidando-com-mudanças"><a class="header" href="#lidando-com-mudanças">lidando com mudanças</a></h4>
+<ul>
+<li>mudança é inevitável em grandes projetos</li>
+<li>requisitos mudam</li>
+<li>surgem novas pressões externas ao negócio</li>
+<li>mudam prioridades</li>
+<li>emergem novas tecnologias</li>
+<li>surgem novos projetos</li>
+<li>possíveis soluções
+<ul>
+<li>prototipação</li>
+<li>entrega incremental</li>
+</ul>
+</li>
+</ul>
+<h2 id="motivação--histórico"><a class="header" href="#motivação--histórico">motivação / histórico</a></h2>
+<h3 id="crise-do-software---anos-6070"><a class="header" href="#crise-do-software---anos-6070">crise do software - anos 60/70</a></h3>
+<ul>
+<li>problemas com orçamento</li>
+<li>problemas com prazo</li>
+<li>problemas com qualidade</li>
+<li>problemas com requisitos</li>
+<li>problemas com manutenibilidade</li>
+</ul>
+<h3 id="engenharia-de-software-tradicional---anos-8090"><a class="header" href="#engenharia-de-software-tradicional---anos-8090">engenharia de software <em>tradicional</em> - anos 80/90</a></h3>
+<ul>
+<li>planejamento cuidadoso</li>
+<li>qualidade formalizada</li>
+<li>uso de métodos de análise e design</li>
+<li>ferramentas <em>CASE (computer-aided software engineering)</em></li>
+<li>processo de desenvolvimento rigoroso e controlado</li>
+<li>desenvolvimento de softwares grandes e críticos</li>
+<li>sistemas duradouros, precisam ter muito boa manutenibilidade</li>
+</ul>
+<h3 id="engenharia-de-software-ágil---anos-0010"><a class="header" href="#engenharia-de-software-ágil---anos-0010">engenharia de software <em>ágil</em> - anos 00/10</a></h3>
+<ul>
+<li>requisitos instáveis, muitas vezes</li>
+<li>requisitos iniciais mudam, pois clientes acham impossível prever:
+<ul>
+<li>como um sistema afetará as práticas de trabalho</li>
+<li>como um sistema irá interagir com outros sistemas</li>
+<li>quais operações do usuário devem ser automatizadas</li>
+</ul>
+</li>
+<li>se todos os requisitos foram definidos no início, quando o software estiver pronto, ele pode estar <em>desatualizado</em></li>
+<li>ambientes corporativos menores, <em>médio e pequeno porte</em></li>
+<li>processos <strong>pesados</strong> causam muito <em>overhead</em></li>
+<li>gasta-se muito com planejamento/análise comparando com implementação/teste</li>
+<li>desenvolvedores propuseram processos mais <em>leves</em>: os métodos <em>ágeis</em></li>
+<li>produzir rapidamente softwares minimamente úteis, por meio de incrementos, cada incremento incluindo novas funcionalidades</li>
+</ul>
+<blockquote>
+<p>manifesto ágil, 2001
+&quot;estamos descobrindo maneiras melhores de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. através deste trabalho, passamos a valorizar:</p>
+<ul>
+<li>indivíduos e interações mais que processos e ferramentas</li>
+<li>software em funcionamento mais que documentação abrangente</li>
+<li>colaboração com o cliente mais que negociação de contratos</li>
+<li>responder a mudanças mais que seguir um plano</li>
+</ul>
+<p><em><strong>&quot;ou seja, mesmo havendo valor no itens à direita, valorizamos mais os itens à esquerda&quot;</strong></em></p>
+</blockquote>
+<div class="table-wrapper"><table><thead><tr><th>princípios</th><th>descrição</th></tr></thead><tbody>
+<tr><td>envolvimento do cliente</td><td>os clientes devem estar intimamente envolvidos no processo de desenvolvimento, seu papel é fornecer e priorizar novos requisitos do sistema e avaliar suas iterações</td></tr>
+<tr><td>entrega incremental</td><td>o software é desenvolvido em incrementos com o cliente, especificando os requisitos para serem incluídos em cada um</td></tr>
+<tr><td>pessoas, não processos</td><td>as habilidades da equipe de desenvolvimento devem ser reconhecidas e exploradas, membros da equipe devem desenvolver suas próprias maneiras de trabalhar, sem processos prescritivos</td></tr>
+<tr><td>aceitar as mudanças</td><td>deve-se ter em mente que os requisitos do sistema vão mudar, por isso, projete o sistema a acomodar essas mudanças</td></tr>
+<tr><td>manter a simplicidade</td><td>focalize a simplicidade, tanto do software a ser desenvolvido quanto do processo de desenvolvimento, sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema</td></tr>
+</tbody></table>
+</div>
+<h4 id="dificuldades-e-limitações"><a class="header" href="#dificuldades-e-limitações">dificuldades e limitações</a></h4>
+<ul>
+<li>cliente deve estar disposto e capaz de passar o tempo com a equipe de desenvolvimento</li>
+<li>cliente deve ser capaz de representar todas as partes interessadas</li>
+<li>membros da equipe podem não ter a personalidade adequada</li>
+<li>a organização pode não ter a cultura adequada</li>
+<li>organizações investiram muito em definição e organização de processos</li>
+<li>priorizar mudanças pode ser extremamente difícil, principalmente se há muitas partes envolvidas</li>
+<li>manter a simplicidade pode ser complicado, pode-se levar tempo para se fazer as simplificações desejáveis</li>
+<li>pode dificultar negociações contratuais, <em>incluindo terceirizações</em></li>
+<li>depende da maturidade dos desenvolvedores</li>
+</ul>
 <div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div>
                     </main>
 

@@ -31,43 +31,33 @@
 - integridade
 - completeza
 
-### modelos de processo de software
-
-- representação simplificada *abstrações* de um processo de software
-- representam *frameworks*
-- modelos mais comuns:
-  - cascata
-  - incremental
-  - orientado a reuso
-
-
 ### categorias de software
 
-software básico:
-apoio a outros programas
-forte interação com hardware
-exemplos: compiladores, drivers de dispositivo, componentes de sistema operacional
+- software básico:
+  - apoio a outros programas
+  - forte interação com hardware
+  - exemplos: compiladores, drivers de dispositivo, componentes de sistema operacional
 
-software em tempo real:
-tipo de software que monitora eventos por meio de coleta e análise de dados
-software fornece resposta imediata
+- software em tempo real:
+  - tipo de software que monitora eventos por meio de coleta e análise de dados
+  - software fornece resposta imediata
 
-software comercial:
-manipulação de grande volume de dados e uso em aplicações comerciais
-possui forte interação com banco de dados
+- software comercial:
+  - manipulação de grande volume de dados e uso em aplicações comerciais
+  - possui forte interação com banco de dados
 
-software científico:
-algoritmos de processamento numérico
+- software científico:
+  - algoritmos de processamento numérico
 
-software de computador pessoal:
-forte interação com o ser humano
-deve ser fácil e amigável
+- software de computador pessoal:
+  - forte interação com o ser humano
+  - deve ser fácil e amigável
 
-crise do software
+### crise do software
 desenvolver software é uma atividade que tem deixado de ser artesanal e empírica para se tornar sistemática e organizada
 
-o processo de desenvolvimento de um software
-é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
+### processo de desenvolvimento de um software
+processo de desenvolvimento de um software é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
 vantagens  em se definir o desenvolvimento de software como um processo:
 - redução no tempo de treinamento
 - produção de artefatos mais uniformizados
@@ -115,3 +105,82 @@ o trabalho principal de um projeto é decompor o produto em módulos que se comu
 
 o produto passa a ser executável
 
+### modelos de processo de software
+
+- representação simplificada *abstrações* de um processo de software
+- representam *frameworks*
+- modelos mais comuns:
+  - cascata
+  - incremental
+  - orientado a reuso
+
+#### lidando com mudanças
+
+- mudança é inevitável em grandes projetos
+- requisitos mudam
+- surgem novas pressões externas ao negócio
+- mudam prioridades
+- emergem novas tecnologias
+- surgem novos projetos
+- possíveis soluções
+  - prototipação
+  - entrega incremental
+
+## motivação / histórico
+
+### crise do software - anos 60/70 
+- problemas com orçamento
+- problemas com prazo
+- problemas com qualidade
+- problemas com requisitos
+- problemas com manutenibilidade
+
+### engenharia de software *tradicional* - anos 80/90
+- planejamento cuidadoso
+- qualidade formalizada
+- uso de métodos de análise e design
+- ferramentas *CASE (computer-aided software engineering)*
+- processo de desenvolvimento rigoroso e controlado
+- desenvolvimento de softwares grandes e críticos
+- sistemas duradouros, precisam ter muito boa manutenibilidade
+
+### engenharia de software *ágil* - anos 00/10
+- requisitos instáveis, muitas vezes
+- requisitos iniciais mudam, pois clientes acham impossível prever:
+  - como um sistema afetará as práticas de trabalho
+  - como um sistema irá interagir com outros sistemas
+  - quais operações do usuário devem ser automatizadas
+- se todos os requisitos foram definidos no início, quando o software estiver pronto, ele pode estar *desatualizado*
+- ambientes corporativos menores, *médio e pequeno porte*
+- processos **pesados** causam muito *overhead*
+- gasta-se muito com planejamento/análise comparando com implementação/teste
+- desenvolvedores propuseram processos mais *leves*: os métodos *ágeis*
+- produzir rapidamente softwares minimamente úteis, por meio de incrementos, cada incremento incluindo novas funcionalidades
+
+> manifesto ágil, 2001
+> "estamos descobrindo maneiras melhores de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. através deste trabalho, passamos a valorizar:
+> - indivíduos e interações mais que processos e ferramentas
+> - software em funcionamento mais que documentação abrangente
+> - colaboração com o cliente mais que negociação de contratos
+> - responder a mudanças mais que seguir um plano
+> 
+> ***"ou seja, mesmo havendo valor no itens à direita, valorizamos mais os itens à esquerda"***
+
+princípios | descrição 
+--- | ---
+ envolvimento do cliente | os clientes devem estar intimamente envolvidos no processo de desenvolvimento, seu papel é fornecer e priorizar novos requisitos do sistema e avaliar suas iterações
+ entrega incremental | o software é desenvolvido em incrementos com o cliente, especificando os requisitos para serem incluídos em cada um
+ pessoas, não processos | as habilidades da equipe de desenvolvimento devem ser reconhecidas e exploradas, membros da equipe devem desenvolver suas próprias maneiras de trabalhar, sem processos prescritivos
+ aceitar as mudanças | deve-se ter em mente que os requisitos do sistema vão mudar, por isso, projete o sistema a acomodar essas mudanças
+ manter a simplicidade | focalize a simplicidade, tanto do software a ser desenvolvido quanto do processo de desenvolvimento, sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema
+
+#### dificuldades e limitações
+- cliente deve estar disposto e capaz de passar o tempo com a equipe de desenvolvimento
+- cliente deve ser capaz de representar todas as partes interessadas
+- membros da equipe podem não ter a personalidade adequada
+- a organização pode não ter a cultura adequada
+- organizações investiram muito em definição e organização de processos
+- priorizar mudanças pode ser extremamente difícil, principalmente se há muitas partes envolvidas
+- manter a simplicidade pode ser complicado, pode-se levar tempo para se fazer as simplificações desejáveis
+- pode dificultar negociações contratuais, *incluindo terceirizações*
+- depende da maturidade dos desenvolvedores
