@@ -21,7 +21,7 @@
 ### outra definição de engenharia de software:
 > engenharia de software é a profissão dedicada a projetar, implementar e modificar software, de forma que ele seja de alta qualidade, a um custo razoável, manutenível e rápido de construir
 
-pilares
+### pilares
 - abstração
 - formalidade
 - dividir para conquistar
@@ -30,6 +30,16 @@ pilares
 - localização
 - integridade
 - completeza
+
+### modelos de processo de software
+
+- representação simplificada *abstrações* de um processo de software
+- representam *frameworks*
+- modelos mais comuns:
+  - cascata
+  - incremental
+  - orientado a reuso
+
 
 ### categorias de software
 
