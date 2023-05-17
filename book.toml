@@ -1,5 +1,5 @@
 [book]
-authors = [Vinicius Silva]
+authors = ["Vinicius Silva"]
 language = "pt-br"
 multilingual = false
 src = "src"

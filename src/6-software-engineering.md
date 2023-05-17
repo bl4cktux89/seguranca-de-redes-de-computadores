@@ -1,6 +1,7 @@
 # engenharia de software
 
-## habilidades a serem desenvolvidas:
+## habilidades a serem desenvolvidas
+
 - esclarecer os aspectos gerais da engenharia de software
 - explicar os conceitos, pilares, objetivos e paradigmas
 - explicar os processos de desenvolvimento de software
@@ -8,20 +9,23 @@
 - analisar como ocorrem os processos, desde o planejamento até a manutenção
 
 ## conceito de engenharia de software
+
 - engenharia de software é uma disciplina cujo objetivo é produzir software isento de falhas, entregue dentro do prazo e orçamentos previstos, e que atenda às necessidades do cliente. além disso, o software deve ser fácil de ser modificado quando as necessidades dos usuários mudarem
 
-### definição genérica de software:
+### definição genérica de software
+
 - instruções que, quando executadas, produzem a função desejada
 - estruturas de dados que possibilitam que os programas manipulem a informação
 - documentação relativa ao sistema
 
-### definição pela IEEE computer society:
-> a aplicação de uma abordagem sistemática, disciplinada e quantificável de desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens
+> definição pela IEEE computer society, engenharia de software é a aplicação de uma abordagem sistemática, disciplinada e quantificável de desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens
 
-### outra definição de engenharia de software:
-> engenharia de software é a profissão dedicada a projetar, implementar e modificar software, de forma que ele seja de alta qualidade, a um custo razoável, manutenível e rápido de construir
+---
+
+> engenharia de software também pode ser definida como a profissão dedicada a projetar, implementar e modificar software, de forma que ele seja de alta qualidade, a um custo razoável, manutenível e rápido de construir
 
 ### pilares
+
 - abstração
 - formalidade
 - dividir para conquistar
@@ -54,16 +58,20 @@
   - deve ser fácil e amigável
 
 ### crise do software
+
 desenvolver software é uma atividade que tem deixado de ser artesanal e empírica para se tornar sistemática e organizada
 
 ### processo de desenvolvimento de um software
+
 processo de desenvolvimento de um software é um conjunto de atividades temporárias, realizadas em grupo, destinadas a produzir um produto, serviço ou resultado únicos
 vantagens  em se definir o desenvolvimento de software como um processo:
+
 - redução no tempo de treinamento
 - produção de artefatos mais uniformizados
 - transformação de experiências em valor
 
-divisões de estrutura
+#### divisões de estrutura
+
 - fases
   - conjunto de atividades com objetivos definidos
 - atividades
@@ -71,6 +79,7 @@ divisões de estrutura
   - devem possuir entradas, saídas, responsáveis, participantes e recursos definidos
   
 ## ciclo de vida natural de um software
+
 - requisitos
 - projeto
 - implementação
@@ -78,6 +87,7 @@ divisões de estrutura
 - manutenção
 
 ### ciclo de desenvolvimento de sistemas mais detalhado
+
 - estudo de viabilidade
 - análise de sistemas
 - projeto
@@ -90,10 +100,9 @@ divisões de estrutura
 
 ### requisitos
 
-> são condições para que um determinado evento aconteça
+os requisitos expressam as necessidades e restrições de um determinado produto, descoberta, análise, especificação e validação das propriedades
 
-os requisitos expressam as necessidades e restrições de um determinado produto 
-descoberta, análise, especificação e validação das propriedades
+> são condições para que um determinado evento aconteça, em engenharia de software fazem parte as funções, características, restrições e demais condições para que o evento exista e cumpra seu objetivo
 
 ### projeto
 
@@ -128,7 +137,8 @@ o produto passa a ser executável
 
 ## motivação / histórico
 
-### crise do software - anos 60/70 
+### crise do software - anos 60/70
+
 - problemas com orçamento
 - problemas com prazo
 - problemas com qualidade
@@ -136,6 +146,7 @@ o produto passa a ser executável
 - problemas com manutenibilidade
 
 ### engenharia de software *tradicional* - anos 80/90
+
 - planejamento cuidadoso
 - qualidade formalizada
 - uso de métodos de análise e design
@@ -145,6 +156,7 @@ o produto passa a ser executável
 - sistemas duradouros, precisam ter muito boa manutenibilidade
 
 ### engenharia de software *ágil* - anos 00/10
+
 - requisitos instáveis, muitas vezes
 - requisitos iniciais mudam, pois clientes acham impossível prever:
   - como um sistema afetará as práticas de trabalho
@@ -159,14 +171,15 @@ o produto passa a ser executável
 
 > manifesto ágil, 2001
 > "estamos descobrindo maneiras melhores de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. através deste trabalho, passamos a valorizar:
+>
 > - indivíduos e interações mais que processos e ferramentas
 > - software em funcionamento mais que documentação abrangente
 > - colaboração com o cliente mais que negociação de contratos
 > - responder a mudanças mais que seguir um plano
-> 
+>
 > ***"ou seja, mesmo havendo valor no itens à direita, valorizamos mais os itens à esquerda"***
 
-princípios | descrição 
+princípios | descrição
 --- | ---
  envolvimento do cliente | os clientes devem estar intimamente envolvidos no processo de desenvolvimento, seu papel é fornecer e priorizar novos requisitos do sistema e avaliar suas iterações
  entrega incremental | o software é desenvolvido em incrementos com o cliente, especificando os requisitos para serem incluídos em cada um
@@ -175,6 +188,7 @@ princípios | descrição
  manter a simplicidade | focalize a simplicidade, tanto do software a ser desenvolvido quanto do processo de desenvolvimento, sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema
 
 #### dificuldades e limitações
+
 - cliente deve estar disposto e capaz de passar o tempo com a equipe de desenvolvimento
 - cliente deve ser capaz de representar todas as partes interessadas
 - membros da equipe podem não ter a personalidade adequada
