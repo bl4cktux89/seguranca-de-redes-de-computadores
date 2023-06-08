@@ -6,7 +6,6 @@
 
 ## conteúdo
 
-- [conteúdo](#conteúdo)
 - [sobre](#sobre)
 - [tecnologias utilizadas](#tecnologias-utilizadas)
 - [como utilizar](#como-utilizar)
@@ -26,21 +25,17 @@ este é um repositório onde vou inserir as anotações que faço durante os est
 
 o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
 
-- [mdbook](https://github.com/rust-lang/mdBook)
-
 <a id="como-utilizar"></a>
 
 ## como utilizar
 
-- instale o MdBook e configure de acordo com a documentação oficial
-- dentro da pasta raiz do projeto executar: `mdbook serve`
-- a aplicação vai gerar uma página web no localhost, através da porta 3000, para que você acesse através do seu navegador
+- TBD
 
 <a id="como-contribuir"></a>
 
 ## como contribuir
 
-- faça um Fork desse repositório,
+- faça um fork desse repositório,
 - crie uma branch com a sua feature: `git checkout -b my-feature`
 - commit suas mudanças: `git commit -m 'feat: My new feature'`
 - push a sua branch: `git push origin my-feature`
