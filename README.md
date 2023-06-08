@@ -10,20 +10,24 @@
 - [tecnologias utilizadas](#tecnologias-utilizadas)
 - [como utilizar](#como-utilizar)
 - [como contribuir](#como-contribuir)
-- [fala comigo](#fala-comigo)
+- [contato](#contato)
 
 <a id="sobre"></a>
 
 ## sobre
 
-este é um repositório onde vou inserir as anotações que faço durante os estudos da minha pós-graduação em segurança de redes de computadores
-
+este é um repositório onde vou inserir resumos dos tópicos que estou aprendendo na minha pós-graduação em segurança de redes de computadores
 
 <a id="tecnologias-utilizadas"></a>
 
 ## tecnologias utilizadas
 
 o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
+- [neovim](https://neovim.io/)
+- [vscode](https://code.visualstudio.com/)
+- [gitbook](https://www.gitbook.com/)
+- [markdown](https://pt.wikipedia.org/wiki/Markdown)
+- [git](https://git-scm.com/)
 
 <a id="como-utilizar"></a>
 
@@ -40,8 +44,8 @@ o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 - commit suas mudanças: `git commit -m 'feat: My new feature'`
 - push a sua branch: `git push origin my-feature`
 
-<a id="fala-comigo"></a>
+<a id="contato"></a>
 
-## fala comigo
+## contato
 
-[linktree](https://linktr.ee/bl4cktux89")
+[redes sociais](https://linktr.ee/bl4cktux89")
