@@ -1,14 +1,16 @@
-# Introdução
+# Estrutura Básica de um Computador
+
+## Estrutura Básica de um Computador
 
 Nesta etapa, nós iremos aprimorar nossos conhecimentos sobre a estrutura básica de um computador.
 
 Ao longo desse estudo, nós iremos:
 
-- Examinar a arquitetura de von Neumann.
-- Diferenciar as diferentes arquiteturas dos computadores ao longo dos anos.
-- Analisar os diferentes tipos de memórias utilizados.
+* Examinar a arquitetura de von Neumann.
+* Diferenciar as diferentes arquiteturas dos computadores ao longo dos anos.
+* Analisar os diferentes tipos de memórias utilizados.
 
-# Arquitetura do computador
+## Arquitetura do computador
 
 Arquitetura de von Neumann: A arquitetura de von Neumann, proposta por John von Neumann após a Segunda Guerra Mundial, prevê a armazenagem de programas e dados na mesma unidade de memória, processados por uma CPU composta por uma unidade de controle e uma unidade aritmética e lógica.
 
@@ -22,7 +24,7 @@ Linha Core da Intel: A Intel lançou a linha Core em 2006, com modelos como Core
 
 Constante evolução dos processadores: Novas tecnologias e equipamentos surgem regularmente, impulsionando a evolução dos processadores. Aumentar a velocidade dos processadores se tornou limitado pelo calor gerado, levando ao desenvolvimento de tecnologias como processadores multicore para aumentar a capacidade de processamento.
 
-# Memórias, Entrada e Saída, Interconexão
+## Memórias, Entrada e Saída, Interconexão
 
 A arquitetura de um computador consiste em componentes além dos processadores, como as memórias principais, também conhecidas como memórias de trabalho. A memória RAM desempenha um papel crucial ao permitir que os processadores acessem e gerenciem dados de diferentes regiões, incluindo informações do sistema operacional, dispositivos de entrada e saída, programas e dados gerados por esses programas. A capacidade de administração da memória RAM aumentou em cada geração de processadores, com os processadores de 64 bits possibilitando quantidades maiores de memória em comparação aos processadores de 32 bits.
 
@@ -35,5 +37,3 @@ A introdução da internet na década de 1990 trouxe uma nova geração de máqu
 A interconexão dos computadores e a troca de informações entre eles deram origem ao campo da Tecnologia da Informação. Esse conceito abrange os programas e sistemas computacionais que possibilitam a conectividade entre computadores. Um exemplo prático dessa conectividade é o processo de compra online, que envolve a interligação de sistemas de várias empresas, como a internet, o sistema da loja online, o sistema bancário para o pagamento e o sistema da empresa de entrega do produto. Toda essa troca de informações ocorre de forma automatizada, permitindo que as transações sejam realizadas de maneira rápida e eficiente.
 
 Em resumo, a arquitetura de um computador envolve não apenas os processadores, mas também as memórias principais, como a memória RAM. A capacidade de administração da memória RAM está relacionada à arquitetura dos processadores, com os processadores de 64 bits suportando quantidades maiores de memória. Além disso, os componentes de entrada e saída de dados desempenham um papel fundamental na funcionalidade dos computadores. A interconexão entre computadores, impulsionada pela internet, trouxe avanços significativos na Tecnologia da Informação e possibilitou a troca de informações em escala global.
-
-

@@ -1,29 +1,36 @@
-# Introdução
+# Desenvolvimento Histórico
+
+## Desenvolvimento Histórico
 
 Nesta sessão, vamos explorar as diferentes gerações de computadores, quando foram utilizadas e como elas influenciaram as tecnologias atuais.
 
 Ao longo desse estudo, nós iremos:
 
-- Identificar como as máquinas de cálculo mecânicas evoluíram ao longo do tempo.
-- Compreender as características e importância da máquina ENIAC.
-- Acompanhar a evolução dos computadores e suas transformações ao longo das gerações.
+* Identificar como as máquinas de cálculo mecânicas evoluíram ao longo do tempo.
+* Compreender as características e importância da máquina ENIAC.
+* Acompanhar a evolução dos computadores e suas transformações ao longo das gerações.
 
-## Evolução das máquinas de cálculos mecânicas
+### Evolução das máquinas de cálculos mecânicas
+
 Esta seção aborda a primeira geração de computadores, que eram máquinas de cálculos mecânicas. O objetivo é identificar essa evolução e compreender as características dessas máquinas.
 
-## Máquina ENIAC
+### Máquina ENIAC
+
 Nesta seção, é apresentada a máquina ENIAC, que representa a segunda geração de computadores. O objetivo é compreender as características específicas dessa máquina e seu papel na evolução dos computadores.
 
-## Acompanhando a evolução dos computadores
+### Acompanhando a evolução dos computadores
+
 Nesta seção, é discutido o acompanhamento da evolução dos computadores ao longo das gerações. O objetivo é interpretar como cada geração contribuiu para o desenvolvimento e aprimoramento dos computadores.
 
-# Máquinas de cálculo mecânicas
+## Máquinas de cálculo mecânicas
+
 Nesta seção, são apresentados os primeiros tipos de computadores, como o ábaco, os ossos de Napier, as rodas dentadas de Pascal e a máquina analítica de Babbage. São exploradas suas características e contribuições para o desenvolvimento dos computadores modernos.
 
-## A máquina de Turing
+### A máquina de Turing
+
 Nesta seção, é introduzida a máquina de Turing, um modelo abstrato proposto por Alan Turing em 1936. São discutidos os conceitos lógicos e as linguagens aplicadas na resolução de algoritmos e problemas matemáticos. Também é mencionado o aperfeiçoamento dessa máquina por John von Neumann, resultando na arquitetura de Neumann.
 
-# As gerações de computadores
+## As gerações de computadores
 
 Geração 1: A primeira geração de computadores (1946-1954) foi caracterizada pelo uso de válvulas para processamento de informações. A programação era feita em linguagem de máquina e os dados eram armazenados em cartões perfurados.
 
