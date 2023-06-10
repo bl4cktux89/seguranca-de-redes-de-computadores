@@ -1,1 +1,0 @@
-# Desenvolvimento agil de software

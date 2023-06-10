@@ -1,2 +1,2 @@
-# 01-pensamento-estrategico-e-nocoes-de-planejamento-estrategico
+# Pensamento Estratégico: Noções de Planejamento Estratégico
 

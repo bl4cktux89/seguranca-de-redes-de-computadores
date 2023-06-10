@@ -1,1 +1,0 @@
-# Abordagem entidade-relacionamento

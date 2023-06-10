@@ -1,2 +1,2 @@
-# 02-tecnologias-de-informacao-e-comunicacao-nas-redes-e-na-internet
+# Tecnologias de informação e comunicação nas redes e na internet
 
