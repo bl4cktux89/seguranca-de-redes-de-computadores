@@ -48,4 +48,4 @@ o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 ## contato
 
-[redes sociais](https://linktr.ee/bl4cktux89")
+[redes sociais]("https://beacons.ai/bl4cktux89")
