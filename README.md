@@ -42,4 +42,4 @@ o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 ## contato
 
-[beacons.ai]("https://beacons.ai/bl4cktux89")
+[beacons.ai](https://beacons.ai/bl4cktux89)
