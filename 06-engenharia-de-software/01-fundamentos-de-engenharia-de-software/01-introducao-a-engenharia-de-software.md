@@ -1,4 +1,4 @@
-# Introdução a Engenharia de Software:
+# Introdução a Engenharia de Software
 
 ## Aspectos Gerais, Objetivos, Evolução do Software e Crise do Software
 
