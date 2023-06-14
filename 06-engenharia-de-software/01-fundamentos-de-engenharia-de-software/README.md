@@ -1,6 +1,6 @@
 # Fundamentos de Engenharia de Software
 
-- Nesta tópico, vamos estudar os fundamentos da Engenharia de Software e sua importância no desenvolvimento de produtos de software.
+- Neste tópico, vamos estudar os fundamentos da Engenharia de Software e sua importância no desenvolvimento de produtos de software.
 - Abordaremos os conceitos, objetivos e paradigmas da Engenharia de Software, além de analisar a história do tema e a crise enfrentada pelo desenvolvimento de software.
 - As boas práticas da Engenharia de Software têm sido essenciais no processo de desenvolvimento, porém, elas foram construídas ao longo do tempo com base nas experiências das equipes.
 - Nos dias atuais, o desenvolvimento de software requer condutas estruturadas e padrões mínimos de procedimentos para enfrentar os desafios.
