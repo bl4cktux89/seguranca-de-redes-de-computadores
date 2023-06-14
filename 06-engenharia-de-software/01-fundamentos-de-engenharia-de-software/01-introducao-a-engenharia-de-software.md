@@ -1,11 +1,24 @@
-# Introdução a Engenharia de Software: Aspectos Gerais, Objetivos, Evolução do Software e Crise do Software
+# Introdução a Engenharia de Software:
+## Aspectos Gerais, Objetivos, Evolução do Software e Crise do Software
 
-## Introdução
+Ao longo desse tópico vamos observar:
 
-Vamos explorar:
-- Conceitos de Engenharia de Software
-- Pilares da Engenharia de Software
-- O que foi a crise do software
+1. Conceitos de Engenharia de Software:
+   - Definição e objetivo da Engenharia de Software.
+   - Papel dos engenheiros de software e suas responsabilidades.
+   - Processos de desenvolvimento de software e suas etapas.
+   - Importância da qualidade, confiabilidade e eficiência no desenvolvimento de software.
+
+2. Pilares da Engenharia de Software:
+   - Processo: Compreender a importância de seguir um processo estruturado no desenvolvimento de software para garantir consistência e qualidade.
+   - Métodos: Explorar diferentes métodos, técnicas e abordagens utilizadas na Engenharia de Software para realizar atividades como análise de requisitos, projeto, implementação e teste.
+   - Ferramentas: Conhecer as ferramentas e tecnologias disponíveis para auxiliar no desenvolvimento de software e melhorar a produtividade da equipe.
+   - Pessoas: Reconhecer o papel fundamental dos profissionais envolvidos no desenvolvimento de software e a importância da colaboração e comunicação efetiva entre eles.
+
+3. A crise do software:
+   - Compreender o contexto histórico da crise do software ocorrida nas décadas de 1960 e 1970.
+   - Identificar os principais desafios e problemas enfrentados no desenvolvimento de software durante essa época.
+   - Entender como essa crise impulsionou o surgimento da Engenharia de Software como uma disciplina formal e a adoção de abordagens mais estruturadas e profissionais no desenvolvimento de software.
 
 ## Conceito de Engenharia de Software
 

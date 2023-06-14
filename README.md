@@ -6,9 +6,9 @@
 
 ## conteúdo
 
+- [conteúdo](#conteúdo)
 - [sobre](#sobre)
 - [tecnologias utilizadas](#tecnologias-utilizadas)
-- [como utilizar](#como-utilizar)
 - [como contribuir](#como-contribuir)
 - [contato](#contato)
 
@@ -29,12 +29,6 @@ o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 - [markdown](https://pt.wikipedia.org/wiki/Markdown)
 - [git](https://git-scm.com/)
 
-<a id="como-utilizar"></a>
-
-## como utilizar
-
-- TBD
-
 <a id="como-contribuir"></a>
 
 ## como contribuir
@@ -48,4 +42,4 @@ o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 ## contato
 
-[redes sociais]("https://beacons.ai/bl4cktux89")
+[beacons.ai]("https://beacons.ai/bl4cktux89")
