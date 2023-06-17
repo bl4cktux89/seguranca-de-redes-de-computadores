@@ -87,7 +87,6 @@
     * [Planos de contingencia](05-planejamento-estrategico-em-seguranca/04-desenvolvimento-de-projetos-e-planos-de-seguranca-especificos/03-planos-de-contingencia.md)
     * [TBD](05-planejamento-estrategico-em-seguranca/04-desenvolvimento-de-projetos-e-planos-de-seguranca-especificos/04-tbd.md)
 * [Engenharia de Software](06-engenharia-de-software/README.md)
-  * [engenharia de software](06-engenharia-de-software/6-software-engineering.md)
   * [Fundamentos de Engenharia de software](06-engenharia-de-software/01-fundamentos-de-engenharia-de-software/README.md)
     * [Introdução a Engenharia de Software](06-engenharia-de-software/01-fundamentos-de-engenharia-de-software/01-introducao-a-engenharia-de-software.md)
     * [Fundamentos dos processos de desenvolvimento de software](06-engenharia-de-software/01-fundamentos-de-engenharia-de-software/02-fundamentos-dos-processos-de-desenvolvimento-de-software.md)
