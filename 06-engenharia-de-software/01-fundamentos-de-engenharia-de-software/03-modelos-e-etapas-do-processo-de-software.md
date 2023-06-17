@@ -17,7 +17,7 @@ Ao longo desse tópico, vamos:
    - Compreender a decomposição do sistema em módulos e a definição de interfaces.
    - Reconhecer a importância da documentação do projeto como base para a implementação.
 
-## Requisitos de Software 
+## Requisitos de Software
 
 Na área de requisitos de software, a preocupação principal é o levantamento, análise, especificação e validação das propriedades que devem ser apresentadas para resolver as tarefas relacionadas ao software em desenvolvimento. Os requisitos são a expressão mais detalhada das necessidades do usuário ou cliente em relação a um produto de software.
 

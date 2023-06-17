@@ -25,17 +25,19 @@ Ao longo desse tópico vamos observar:
 
 A Engenharia de Software tem como objetivo produzir software de alta qualidade, livre de falhas, dentro do prazo e orçamento previstos, atendendo às necessidades do cliente e permitindo facilidade de modificação conforme as necessidades dos usuários mudem, também podemos dizer que é uma disciplina amplamente estudada e acumula várias definições ao longo dos anos, todas enfatizando a importância de produzir software de qualidade, dentro dos recursos disponíveis.
 
-- Explicação dos termos envolvidos:
-    - Software: Instruções executáveis que produzem a função desejada, estruturas de dados que manipulam informações e documentação do sistema.
-    - Engenharia: Projeto e manufatura, onde requisitos e especificações do produto são críticos para a qualidade final.
+Explicação dos termos envolvidos:
 
-> A Engenharia de Software, segundo a IEEE Computer Society, é a aplicação de uma abordagem sistemática, disciplinada e quantificável no desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens.
+- Software: Instruções executáveis que produzem a função desejada, estruturas de dados que manipulam informações e documentação do sistema.
+- Engenharia: Projeto e manufatura, onde requisitos e especificações do produto são críticos para a qualidade final.
 
-> Segundo Laplante (2007), a Engenharia de Software é a profissão dedicada a projetar, implementar e modificar software de alta qualidade, com custo razoável, fácil de manter e rápido de construir.
+Outras definições de Engenharia de Software:
+
+- A Engenharia de Software, segundo a IEEE Computer Society, é a aplicação de uma abordagem sistemática, disciplinada e quantificável no desenvolvimento, operação e manutenção de software, além do estudo dessas abordagens.
+- Segundo Laplante (2007), a Engenharia de Software é a profissão dedicada a projetar, implementar e modificar software de alta qualidade, com custo razoável, fácil de manter e rápido de construir.
 
 ### Objetivo da Engenharia de Software
 
-- O objetivo da Engenharia de Software é entregar um produto de qualidade, respeitando prazos e recursos humanos e financeiros disponíveis.
+O objetivo da Engenharia de Software é entregar um produto de qualidade, respeitando prazos e recursos humanos e financeiros disponíveis.
 
 ## Pilares e Categorias de Software
 
@@ -62,7 +64,56 @@ A Engenharia de Software tem como objetivo produzir software de alta qualidade, 
 
 ## Crise do Software
 
-A atividade de desenvolvimento de software passou por uma crise em seus primeiros anos, caracterizada por projetos com alta chance de insucesso. Os principais problemas enfrentados foram:
+### Histórico
+
+#### Anos 60/70
+
+Problemas com:
+
+- Orçamento
+- Prazo
+- Qualidade
+- Requisitos
+- Manutenibilidade
+
+#### Anos 80/90
+
+- Planejamento cuidadoso
+- Qualidade formalizada
+- Uso de métodos de análise e design
+- Ferramentas *CASE (computer-aided software engineering)*
+- Processo de desenvolvimento rigoroso e controlado
+- Desenvolvimento de softwares grandes e críticos
+- Sistemas duradouros, precisam ter muito boa manutenibilidade
+
+#### Anos 00/10
+
+- Requisitos instáveis, muitas vezes
+- Requisitos iniciais mudam, pois clientes acham impossível prever:
+  - Como um sistema afetará as práticas de trabalho
+  - Como um sistema irá interagir com outros sistemas
+  - Quais operações do usuário devem ser automatizadas
+- Se todos os requisitos foram definidos no início, quando o software estiver pronto, ele pode estar *desatualizado*
+- Ambientes corporativos menores, *médio e pequeno porte*
+- Processos **pesados** causam muito *overhead*
+- Gasta-se muito com planejamento/análise comparando com implementação/teste
+- Desenvolvedores propuseram processos mais *leves*: os métodos *ágeis*
+- Produzir rapidamente softwares minimamente úteis, por meio de incrementos, cada incremento incluindo novas funcionalidades
+
+#### Manifesto ágil, 2001
+
+Estamos descobrindo maneiras melhores de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. através deste trabalho, passamos a valorizar:
+
+- Indivíduos e interações mais que processos e ferramentas
+- Software em funcionamento mais que documentação abrangente
+- Colaboração com o cliente mais que negociação de contratos
+- Responder a mudanças mais que seguir um plano
+
+***"Ou seja, mesmo havendo valor no itens à direita, valorizamos mais os itens à esquerda"***
+
+---
+
+Em resumo, conforme citado acima, a atividade de desenvolvimento de software passou por alguns períodos difíceis, caracterizado por projetos com alta chance de insucesso. Os principais problemas enfrentados foram:
 
 1. Entrega de software com falhas e dificuldade de manutenção: Os programas desenvolvidos apresentavam problemas e eram construídos com processos falhos, o que dificultava sua manutenção futura.
 
@@ -81,3 +132,23 @@ Frente a esses desafios, a necessidade de aprimorar e trazer segurança ao proce
 A importância de superar a crise do software é destacada por pesquisas que revelam altas taxas de litígios e insatisfação dos clientes. A adoção de princípios da Engenharia de Software é essencial para garantir o sucesso dos projetos.
 
 > A Engenharia de Software busca orientar-se por princípios que devem ser seguidos para alcançar seus objetivos. Ao considerar esses princípios, é possível evitar os problemas enfrentados durante a crise do software.
+
+princípios | descrição
+--- | ---
+ envolvimento do cliente | os clientes devem estar intimamente envolvidos no processo de desenvolvimento, seu papel é fornecer e priorizar novos requisitos do sistema e avaliar suas iterações
+ entrega incremental | o software é desenvolvido em incrementos com o cliente, especificando os requisitos para serem incluídos em cada um
+ pessoas, não processos | as habilidades da equipe de desenvolvimento devem ser reconhecidas e exploradas, membros da equipe devem desenvolver suas próprias maneiras de trabalhar, sem processos prescritivos
+ aceitar as mudanças | deve-se ter em mente que os requisitos do sistema vão mudar, por isso, projete o sistema a acomodar essas mudanças
+ manter a simplicidade | focalize a simplicidade, tanto do software a ser desenvolvido quanto do processo de desenvolvimento, sempre que possível, trabalhe ativamente para eliminar a complexidade do sistema
+
+#### Dificuldades e limitações
+
+- Cliente deve estar disposto e capaz de passar o tempo com a equipe de desenvolvimento
+- Cliente deve ser capaz de representar todas as partes interessadas
+- Membros da equipe podem não ter a personalidade adequada
+- A organização pode não ter a cultura adequada
+- Organizações investiram muito em definição e organização de processos
+- Priorizar mudanças pode ser extremamente difícil, principalmente se há muitas partes envolvidas
+- Manter a simplicidade pode ser complicado, pode-se levar tempo para se fazer as simplificações desejáveis
+- Pode dificultar negociações contratuais, *incluindo terceirizações*
+- Depende da maturidade dos desenvolvedores.

@@ -1,6 +1,6 @@
 # Engenharia de Software
 
-## Introdução ao conteúdo:
+## Introdução ao conteúdo
 
 Desenvolver uma solução computacional que atenda às expectativas e necessidades do cliente é um desafio complexo. A falta de comunicação eficiente entre a equipe de desenvolvimento e o cliente, a adoção de procedimentos equivocados e a dificuldade em criar um programa correto podem levar a expectativas frustradas e necessidades mal atendidas.
 
@@ -8,9 +8,11 @@ O aprimoramento das práticas de trabalho e a utilização de metodologias efici
 
 A Engenharia de Software, desde seu surgimento, tem se mostrado crucial para tornar viáveis os projetos de software e entregar produtos de qualidade e confiabilidade satisfatórias.
 
-Neste tópico, exploraremos como a Engenharia de Software pode ser aplicada com sucesso no desenvolvimento de soluções computacionais. Abordaremos métodos mais leves, ágeis e centrados no desenvolvedor, que buscam corrigir erros do passado.
+Este tópico explora como a Engenharia de Software pode ser aplicada com sucesso no desenvolvimento de soluções computacionais.
 
-## Tópicos abordados:
+Abordaremos métodos mais leves, ágeis e centrados no desenvolvedor, que buscam corrigir erros do passado.
+
+## Tópicos abordados
 
 1. Fundamentos da Engenharia de Software e metodologias tradicionais:
     - Introdução à Engenharia de Software e sua importância no desenvolvimento de projetos.
@@ -29,7 +31,7 @@ Neste tópico, exploraremos como a Engenharia de Software pode ser aplicada com 
     - Visões e métodos diversificados de submeter um produto executável a verificações e validações.
     - Participação do cliente e/ou usuário no processo de teste e sua relevância para o sucesso do produto.
 
-## Competências a serem desenvolvidas:
+## Competências a serem desenvolvidas
 
 - Debater os modelos e possibilidades de desenvolvimento.
 - Distinguir as metodologias ágeis mais utilizadas no mercado.

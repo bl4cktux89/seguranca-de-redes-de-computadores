@@ -41,7 +41,7 @@ Existem várias divisões que compõem a estrutura de um processo de desenvolvim
 
 3. Documentação das atividades: A organização pode determinar a adoção de documentos que descrevam as atividades, fornecendo informações sobre responsáveis, objetivos, recursos e características completas da tarefa.
 
-### Modelos de Processos Prescritivos:
+### Modelos de Processos Prescritivos
 
 Além dos processos genéricos definidos e aplicados pela organização, existem modelos prescritivos que descrevem detalhadamente como as atividades devem ser realizadas. Um exemplo é o modelo cascata, que descreve etapas bem definidas que o software percorre desde sua concepção até sua descontinuidade.
 
@@ -52,9 +52,10 @@ Além dos processos genéricos definidos e aplicados pela organização, existem
 A fase de requisitos de software envolve a descoberta, análise, especificação e validação das propriedades necessárias para resolver as tarefas relacionadas ao software a ser desenvolvido.
 
 Afinal, o que são requisitos?
-- Requisitos são as condições necessárias para que um evento específico ocorra. No desenvolvimento de software, os requisitos incluem as funções, características e restrições do software que permitem que ele exista e cumpra seu objetivo.
 
-#### Importância da fase de requisitos:
+> Requisitos são as condições necessárias para que um evento específico ocorra. No desenvolvimento de software, os requisitos incluem as funções, características e restrições do software que permitem que ele exista e cumpra seu objetivo.
+
+#### Importância da fase de requisitos
 
 - Impacto de falhas na fase de requisitos: Falhas cometidas na fase de levantamento de requisitos se propagam nas fases subsequentes de projeto e implementação. Corrigir falhas nessa fase inicial é menos dispendioso do que em fases posteriores. Estudos indicam que a maioria das falhas em grandes projetos de software ocorre nas fases de levantamento de requisitos, análise e projeto.
 
