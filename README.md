@@ -1,45 +1,35 @@
-<p align="center">
-  <h1><b>Segurança de Redes de Computadores</b></h1>
-</p>
+# Segurança de Redes de Computadores
 
-<a id="conteudo"></a>
+## Conteúdo
 
-## conteúdo
-
-- [conteúdo](#conteúdo)
 - [sobre](#sobre)
 - [tecnologias utilizadas](#tecnologias-utilizadas)
 - [como contribuir](#como-contribuir)
 - [contato](#contato)
 
-<a id="sobre"></a>
+## Sobre
 
-## sobre
+Este é um repositório onde vou inserir resumos dos tópicos que estou aprendendo na pós-graduação em segurança de redes de computadores.
 
-este é um repositório onde vou inserir resumos dos tópicos que estou aprendendo na minha pós-graduação em segurança de redes de computadores
+Importante também ressaltar que esse é um projeto que se assemelha a um organismo vivo, vamos realizar inúmeras revisões e atualizações constantes.
 
-<a id="tecnologias-utilizadas"></a>
+## Tecnologias Utilizadas
 
-## tecnologias utilizadas
+O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
 
-o projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
 - [neovim](https://neovim.io/)
 - [vscode](https://code.visualstudio.com/)
 - [gitbook](https://www.gitbook.com/)
 - [markdown](https://pt.wikipedia.org/wiki/Markdown)
 - [git](https://git-scm.com/)
 
-<a id="como-contribuir"></a>
+## Como Contribuir
 
-## como contribuir
+- Faça um fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
 
-- faça um fork desse repositório,
-- crie uma branch com a sua feature: `git checkout -b my-feature`
-- commit suas mudanças: `git commit -m 'feat: My new feature'`
-- push a sua branch: `git push origin my-feature`
-
-<a id="contato"></a>
-
-## contato
+## Contato
 
 [beacons.ai](https://beacons.ai/bl4cktux89)
