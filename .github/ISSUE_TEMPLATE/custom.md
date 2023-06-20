@@ -1,38 +1,30 @@
----
-name: issue generalista
-about: bug ou feature request
-title: ''
-labels: ''
-assignees: ''
+# Descrição do Problema
 
----
+[Descreva claramente o problema que você está enfrentando ou a melhoria que você gostaria de propor.]
 
-## Descrição
-Descreva brevemente o objetivo desta pull request.
+## Passos para Reproduzir (se aplicável)
 
-## Problema ou Solicitação de recurso relacionado(a)
-Descreva o problema ou a solicitação de recurso relacionada a esta pull request.
+[Se o problema for reproduzível, forneça etapas claras e detalhadas para reproduzi-lo.]
 
-## Solução proposta
-Explique de forma clara e concisa a solução que esta pull request busca implementar.
+1. Passo 1
+2. Passo 2
+3. Passo 3
+...
 
-## Alterações realizadas
-Enumere as principais alterações feitas nesta pull request.
+## Comportamento Esperado
 
-## Testes realizados
-Descreva os testes que foram realizados para validar as alterações feitas nesta pull request.
+[Descreva o comportamento esperado após a resolução do problema ou a implementação da melhoria.]
 
-## Screenshots (caso aplicável)
-Se aplicável, adicione screenshots que ajudem a ilustrar as alterações feitas nesta pull request.
+## Capturas de Tela (se aplicável)
 
-## Checklist
-Marque as caixas [ ] para indicar que você concluiu cada item:
+[Se necessário, adicione capturas de tela que possam ajudar a ilustrar o problema ou a melhoria proposta.]
 
-- [ ] Li e segui as diretrizes de contribuição do projeto.
-- [ ] Realizei testes locais das alterações feitas.
-- [ ] Atualizei a documentação, se necessário.
-- [ ] As alterações feitas não introduzem novos erros.
-- [ ] A branch desta pull request está atualizada com a branch principal (`main`).
+## Ambiente
 
-## Informações adicionais
-Adicione qualquer informação adicional que seja relevante para a compreensão e revisão desta pull request.
+- Sistema Operacional: [exemplo: Windows 10]
+- Navegador: [exemplo: Google Chrome]
+- Versão do Projeto: [exemplo: 1.0.0]
+
+## Contexto Adicional
+
+[Adicione qualquer informação adicional relevante para entender melhor o problema ou a melhoria proposta.]
