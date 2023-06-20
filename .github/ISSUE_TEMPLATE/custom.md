@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: issue generalista
+about: bug ou feature request
 title: ''
 labels: ''
 assignees: ''
