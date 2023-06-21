@@ -38,8 +38,6 @@ Os objetivos gerais desse tópico são:
 
 ## Análise de pontos por função
 
-Análise de Pontos por Função (APF):
-
 1. A técnica de Análise de Pontos por Função é baseada nos requisitos do software e é aplicável após a definição dos requisitos funcionais do programa ou histórias.
 2. Os requisitos funcionais são convertidos em valores numéricos, que após cálculos e ajustes, fornecem uma estimativa do esforço necessário para desenvolver o sistema.
 3. A métrica também pode ser utilizada para melhorias no produto, contagem de aplicações já existentes, entre outros usos, dependendo da intenção de utilização.
