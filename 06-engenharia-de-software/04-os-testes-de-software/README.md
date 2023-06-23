@@ -1,11 +1,21 @@
 # Os testes de software
 
-- Nosso objetivo principal é dominar conceitos e práticas essenciais na atividade de teste.
-- Ao alcançar esse objetivo, iremos desenvolver a competência técnica necessária para conhecer e conduzir processos de teste de software com confiança.
+1. Examinar os fundamentos da atividade de teste de software, teste funcional e estrutura:
+   - Entender os conceitos essenciais relacionados ao teste de software.
+   - Explorar os diferentes tipos de testes funcionais.
+   - Compreender a estrutura e a organização dos testes.
 
-Objetivos:
+2. Discutir os conceitos e a execução do Test-Driven Development (TDD):
+   - Conhecer o conceito de TDD e sua importância no desenvolvimento de software.
+   - Aprender sobre os ciclos de desenvolvimento no TDD.
+   - Entender como escrever testes antes da implementação do código.
 
-- Examinar os fundamentos da atividade de teste de software, incluindo teste funcional e estrutural.
-- Discutir os conceitos e a execução do Test-Driven Development (TDD).
-- Esclarecer o que são e como implementar o teste de release e o teste de usuário.
-- Compreender como a manutenção se aplica ao processo de evolução do software.
+3. Esclarecer o que são e como implementar o teste de release e teste de usuário:
+   - Compreender o teste de release como uma etapa importante antes da disponibilização do software.
+   - Conhecer as práticas e técnicas utilizadas no teste de usuário.
+   - Aprender a envolver os usuários finais no processo de teste.
+
+4. Compreender como a manutenção se aplica em meio à evolução do software:
+   - Entender os conceitos de manutenção de software.
+   - Explorar os diferentes tipos de manutenção.
+   - Compreender a importância da manutenção em relação à evolução contínua do software.
