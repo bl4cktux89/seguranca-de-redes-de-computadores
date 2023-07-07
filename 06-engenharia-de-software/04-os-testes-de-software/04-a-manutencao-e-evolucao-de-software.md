@@ -50,8 +50,6 @@ A manutenção pós-entrega é uma atividade fundamental no ciclo de vida do sof
 
 ## ACT - Modelo de Estimação de Esforço de Manutenção
 
-ACT - Modelo de Estimativa de Esforço de Manutenção (SRE)
-
 O modelo ACT (Annual Change Traffic ou Tráfego Anual de Mudança) proposto por Boehm (1981) é um método de estimativa de esforço de manutenção que se baseia na porcentagem de linhas de código que passarão por alterações em um ano. Ele calcula o esforço necessário para as atividades de manutenção com base na taxa de mudança esperada em relação ao tamanho total do software.
 
 A fórmula utilizada no modelo é E = ACT * SDT, em que E representa o esforço medido em desenvolvedor/mês a ser aplicado durante um ano nas atividades de manutenção. ACT é a porcentagem esperada de linhas modificadas ou adicionadas em relação ao tamanho total do software em um ano, e SDT é o tempo de desenvolvimento do software, ou Software Development Time.
