@@ -99,8 +99,6 @@ A compreensão desses elementos básicos é fundamental para criar e estruturar 
 
 Neste exemplo, criamos uma página HTML simples com o título "Minha primeira página" e um parágrafo de texto "Olá mundo!". A declaração do tipo de documento `<!DOCTYPE html>` informa ao navegador que o documento é uma página HTML usando a versão HTML5. A tag `<html>` envolve todo o conteúdo da página, enquanto a tag `<head>` contém informações de configuração, como o título e a codificação de caracteres. A tag `<body>` define o corpo da página, onde o conteúdo é exibido, e dentro dela inserimos a tag `<p>` para criar um parágrafo de texto. Ao final, todas as tags são fechadas corretamente.
 
-## 
-
 ```html
 <!DOCTYPE html> 
 
